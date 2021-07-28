@@ -1,0 +1,20 @@
+Puppy Linux
+Arch Linux
+Debian
+Gentoo
+Linux Mint
+Manjaro
+Zorin OS
+CentOS
+Elementary OS
+Tails
+Ubuntu
+Kubuntu
+Pop! OS
+Slackware
+Sparky Linux
+openSUSE
+Fedora
+MX Linux
+antiX
+Kali Linux
